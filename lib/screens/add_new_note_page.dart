@@ -56,7 +56,7 @@ class CreateTodoScreenState extends State<CreateTodoScreen> {
           content: TextField(
             controller: editController,
             decoration: const InputDecoration(
-              hintText: "Update Notes",
+              hintText: "Update Notes ",
             ),
           ),
           actions: [
