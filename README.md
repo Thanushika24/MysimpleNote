@@ -1,6 +1,6 @@
 # ToDo-List( my simple note app)
 
-**ToDo-List** is a robust personal notes management application meticulously developed using Flutter and Dart. This application caters to the diverse needs of users who seek an efficient and organized way to manage their notes. Whether for personal, educational, or professional use, **ToDo-List** stands out as a versatile and reliable tool, enhancing productivity and organization for its users.
+**my simple note app** is a robust personal notes management application meticulously developed using Flutter and Dart. This application caters to the diverse needs of users who seek an efficient and organized way to manage their notes. Whether for personal, educational, or professional use, **ToDo-List** stands out as a versatile and reliable tool, enhancing productivity and organization for its users.
 
 ## Features
 
