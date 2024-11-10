@@ -1,4 +1,4 @@
-# ToDo-List
+# ToDo-List( my simple note app)
 
 **ToDo-List** is a robust personal notes management application meticulously developed using Flutter and Dart. This application caters to the diverse needs of users who seek an efficient and organized way to manage their notes. Whether for personal, educational, or professional use, **ToDo-List** stands out as a versatile and reliable tool, enhancing productivity and organization for its users.
 
@@ -7,9 +7,6 @@
 - **Create Note:** Easily generate new notes with text, images, or links.
 - **Update Note:** Modify existing notes to keep information current.
 - **Delete Note:** Remove obsolete notes for a clutter-free environment.
-- **Favorite Note:** Mark important notes for quick access in a dedicated section.
-- **Search Notes:** Quickly locate specific notes using keywords or tags.
-- **Share Notes:** Effortlessly share notes with others via various platforms.
 - **Delete All Notes:** Remove all notes at once for a fresh start.
 - **Last Update of Note:** Track the most recent modification date and time for each note.
 - **Date Time Created of Note:** View the creation date and time of each note.
