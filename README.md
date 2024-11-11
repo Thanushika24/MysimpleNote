@@ -24,10 +24,10 @@
 
 1. **Clone the Repository:**
 
-   Replace `YourUsername` with your GitHub username and run the following command:
+   Replace `thanushika` with your GitHub username and run the following command:
 
    ```bash
-   git clone git@github.com:YourUsername/To-Do-List-Notes-App.git
+   git clone git@github.com thanushika/My-Simple-Note-App.git
 
 2. **Navigate to the Project Directory:**
 
